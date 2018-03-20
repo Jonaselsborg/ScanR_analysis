@@ -1,0 +1,16 @@
+picture	well	artefact
+21	1	air
+25	1	dust spec
+17	2	air
+9	2	hair
+1	2	??? wrapping paper
+25	2	dust
+17	3	hair
+18	3	air
+25	4	air
+2	4	dust spec
+3	5	air
+2	5	air
+8	5	dust
+22	5	dust
+14	6 	hair

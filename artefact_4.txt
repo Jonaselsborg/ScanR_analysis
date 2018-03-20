@@ -1,0 +1,4 @@
+picture	well	artefact
+23	5	dirt
+17	2	dirt
+21	1	dirt

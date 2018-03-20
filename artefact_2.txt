@@ -1,0 +1,11 @@
+picture	well	artefact
+17	1	air
+5	1	dust spec
+13	1	hair(not segmented)
+12	1	air
+17	2	hair
+11	2	dust spec
+21	5	air
+13	5	air
+11	6	hair
+
