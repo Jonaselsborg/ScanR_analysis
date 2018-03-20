@@ -1,12 +1,5 @@
 # ScanR 2 Analysis of BiFC / Split Venus
 
-#'''
-#' Methodology
-#' 
-#' Q: What is: Parent Object ID (Well)	Parent Trace ID ?
-#' 
-
-
 rm(list=ls()) #clear workspace
 # Load packages
 library(ggplot2)
@@ -15,7 +8,7 @@ library(reshape2)
 library(plyr)
 library(dplyr)
 library(ggpubr)
-setwd("~/Dropbox/Master Thesis_UBI/UBI Data/Split Venus analysis (IR_2)") #wd
+#setwd("~/Dropbox/Master Thesis_UBI/UBI Data/Split Venus analysis (IR_2)") #wd
 
 # Here follows a block of code to read the .txt files and annotate them.
 combinations <- c("V1-H1.2", "V2-K63-S-UIM", "V1-ev+ V2-ev", "V1-H1.2+ V2-ev", "V1-ev+ V2-K63-S-UIM", "V1-H1.2+ V2-K63-S-UIM")
